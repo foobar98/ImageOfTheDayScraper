@@ -1,6 +1,6 @@
 # Image Of The Day Scraper
 
-A simple Python script that donwloads the image of the day from "www.bingwallpaper.com" everyday at 10:00 am and sets it as the desktop background using BeautifulSoup and requests library.
+A simple Python script that donwloads the image of the day from "www.bingwallpaper.com" everyday at 10:00 AM and sets it as the desktop background using BeautifulSoup and requests library. This can be done easily using below steps.
 
 ## Steps to run
 ```
